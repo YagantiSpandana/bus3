@@ -26,7 +26,7 @@ var buses=[
   {serNo:"2948",TravName:" Volva",fr:"Chennai",to:"Hyderabad",ArT:"29/01/2024",DeT:"30/01/2024",fare:"415",type:"AC",NoS:"35"},
   {serNo:"2948",TravName:" Indra",fr:"Chennai",to:"Tirupati",ArT:"31/01/2024",DeT:"01/02/2024",fare:"415",type:"AC",NoS:"35"},
   {serNo:"4729",TravName:" amaravathi",fr:"Chennai",to:"Banglore",ArT:"30/01/2024",DeT:"31/01/2024",fare:"732",type:"AC",NoS:"42"},
-  {serNo:"2948",TravName:" super Luxury",fr:"Chennai",to:"Vizag",ArT:" 29/01/2024",DeT:"30/01/2024",fare:"256",type:"AC",NoS:"35"},
+  {serNo:"2948",TravName:" super Luxury",fr:"Chennai",to:"Vizag",ArT:"29/01/2024",DeT:"30/01/2024",fare:"256",type:"AC",NoS:"35"},
   {serNo:"4629",TravName:" amaravathi",fr:"Tirupati",to:"Hyderabad",ArT:"29/01/2024",DeT:"30/01/2024",fare:"754",type:"AC",NoS:"35"},
   {serNo:"4820",TravName:" Volva",fr:"Tirupati",to:"Chennai",ArT:"29/01/2024",DeT:"30/01/2024",fare:"633",type:"AC",NoS:"35"},
   {serNo:"2948",TravName:" Indra",fr:"Tirupati",to:"Banglore",ArT:"31/01/2024",DeT:"01/02/2024",fare:"743",type:"NON AC",NoS:"35"},
